@@ -1,6 +1,6 @@
 # Sentiment Analyzer
 
-A sentiment analysis tool built with PyTorch and DistilBERT, featuring a web interface for easy interaction. Training scripts are included if you wish to retrain the model with either the IMDB dataset or your own custom dataset.
+A sentiment analysis tool built with PyTorch and DistilBERT, featuring a web interface for easy interaction. Training scripts are included if you wish to train the model with either the IMDB dataset or your own custom dataset.
 
 ## Features
 
